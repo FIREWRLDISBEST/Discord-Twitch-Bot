@@ -1,5 +1,5 @@
 {
-    "bot_token": "",
+    "bot_token": "OTk5MDQ1ODYyOTgwMzIxMzMw.G0tkeT.LCxhOwwRXOWSIb8vcQ2knsfPpbkxptlfETRHnE",
     "prefix": ".",
     "use_proxy": false,
     "dont_change": false,
@@ -10,10 +10,10 @@
     "role3": "Silver",
     "role4": "Gold",
     "role5": "Premium",
-    "default_amount": 25,
-    "role1_amount": 50,
-    "role2_amount": 80,
-    "role3_amount": 120,
-    "role4_amount": 180,
-    "role5_amount": 300
+    "default_amount": 80,
+    "role1_amount": 135,
+    "role2_amount": 300,
+    "role3_amount": 500,
+    "role4_amount": 700,
+    "role5_amount": 1200
 }
